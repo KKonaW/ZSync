@@ -1,2 +1,2 @@
 # ZSync
-fixes my shit scripts desyncs
+fixes scripts desyncs
