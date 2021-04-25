@@ -1,0 +1,307 @@
+{
+	"44800": [
+		{
+			"duration": 1211,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 7.801368236541748
+		}
+	],
+	"50300": [],
+	"80920": [],
+	"124400": [],
+	"124440": [
+		{
+			"duration": 1848,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 6.970949172973633
+		}
+	],
+	"124444": [
+		{
+			"duration": 1848,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 8.729730606079102
+		}
+	],
+	"124448": [
+		{
+			"duration": 1848,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 8.729018211364746
+		}
+	],
+	"124452": [
+		{
+			"duration": 1848,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 8.724506378173828
+		}
+	],
+	"163720": [
+		{
+			"duration": 2436,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 0.10661987215280533
+		}
+	],
+	"241200": [
+		{
+			"duration": 285,
+			"xyRate": 1.25,
+			"zRate": 1,
+			"distance": 17.499710083007812
+		},
+		{
+			"duration": 463,
+			"xyRate": 1.25,
+			"zRate": 1,
+			"distance": 0
+		}
+	],
+	"244520": [
+		{
+			"duration": 1363,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 8.047385215759277
+		}
+	],
+	"248800": [],
+	"320100": [],
+	"322404": [],
+	"370130": [
+		{
+			"duration": 1721,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 13.499208450317383
+		}
+	],
+	"373200": [],
+	"380130": [
+		{
+			"duration": 1486,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 14.996938705444336
+		}
+	],
+	"400120": [
+		{
+			"duration": 921,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 15.625882148742676
+		},
+		{
+			"duration": 833,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 0
+		}
+	],
+	"400122": [
+		{
+			"duration": 921,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 15.625415802001953
+		},
+		{
+			"duration": 833,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 0
+		}
+	],
+	"404400": [],
+	"404452": [
+		{
+			"duration": 366,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 3.3314731121063232
+		}
+	],
+	"443200": [
+		{
+			"duration": 2291,
+			"xyRate": 5,
+			"zRate": 1,
+			"distance": 24.996768951416016
+		}
+	],
+	"497600": [],
+	"524000": [],
+	"638400": [
+		{
+			"duration": 316,
+			"xyRate": 1.5,
+			"zRate": 1,
+			"distance": 29.160037994384766
+		},
+		{
+			"duration": 804,
+			"xyRate": 1.5,
+			"zRate": 1,
+			"distance": 0
+		}
+	],
+	"722400": [
+		{
+			"duration": 2166,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 16.764484405517578
+		}
+	],
+	"722520": [
+		{
+			"duration": 1933,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 16.8114070892334
+		}
+	],
+	"761200": [],
+	"808800": [],
+	"808904": [
+		{
+			"duration": 366,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 3.3314731121063232
+		}
+	],
+	"852800": [],
+	"1003600": [
+		{
+			"duration": 2133,
+			"xyRate": 0.800000011920929,
+			"zRate": 1,
+			"distance": 9.600966453552246
+		}
+	],
+	"1003724": [
+		{
+			"duration": 1706,
+			"xyRate": 0.800000011920929,
+			"zRate": 1,
+			"distance": 0.09765625
+		}
+	],
+	"1040400": [
+		{
+			"duration": 1633,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 7.999729156494141
+		}
+	],
+	"1100104": [
+		{
+			"duration": 88888888,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": -1
+		}
+	],
+	"1160400": [
+		{
+			"duration": 1120,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 14.99774169921875
+		}
+	],
+	"1213200": [],
+	"1213356": [
+		{
+			"duration": 366,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 3.3314731121063232
+		}
+	],
+	"1360524": [
+		{
+			"duration": 833,
+			"xyRate": 2,
+			"zRate": 1,
+			"distance": 5.5014166831970215
+		},
+		{
+			"duration": 933,
+			"xyRate": 2,
+			"zRate": 1,
+			"distance": 0
+		}
+	],
+	"1400524": [
+		{
+			"duration": 640,
+			"xyRate": 2,
+			"zRate": 1,
+			"distance": 5.5014166831970215
+		},
+		{
+			"duration": 933,
+			"xyRate": 2,
+			"zRate": 1,
+			"distance": 0
+		}
+	],
+	"1440524": [
+		{
+			"duration": 1688,
+			"xyRate": 2,
+			"zRate": 1,
+			"distance": 7.70206880569458
+		}
+	],
+	"1617600": [],
+	"1617808": [
+		{
+			"duration": 366,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 3.3314731121063232
+		}
+	],
+	"2022260": [
+		{
+			"duration": 1500,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": 4.999012470245361
+		}
+	],
+	"4401430": [
+		{
+			"duration": 588,
+			"xyRate": 0.800000011920929,
+			"zRate": 1,
+			"distance": 14.39666748046875
+		},
+		{
+			"duration": 735,
+			"xyRate": 0.800000011920929,
+			"zRate": 1,
+			"distance": 0
+		}
+	],
+	"4401616": [
+		{
+			"duration": 88888888,
+			"xyRate": 1,
+			"zRate": 1,
+			"distance": -1
+		}
+	]
+}

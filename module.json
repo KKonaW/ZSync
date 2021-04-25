@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "zSync",
+    "author": "Bernkastel",
+    "description": "fixes my shit scripts desyncs",
+    "version": "1.0",
+    "options": {
+        "niceName": "zSync",
+        "guiName": "zSync"
+    }
+}
