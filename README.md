@@ -1,2 +1,2 @@
 # ZSync
-fixes scripts desyncs
+bern scripts desyncs
