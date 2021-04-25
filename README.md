@@ -1,2 +1,2 @@
 # ZSync
-bern scripts desyncs
+ scripts desyncs
