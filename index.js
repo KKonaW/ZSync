@@ -1,4 +1,4 @@
-/* Script by Bernkastel */
+/* Script by yourmom */
 'use strict'
 module.exports = function aazsync(dispatch) {
 	let config = {};
@@ -248,7 +248,7 @@ module.exports = function aazsync(dispatch) {
 	111304];
 	
 
-	dispatch.hook('S_LOGIN', dispatch.majorPatchVersion >= 86 ? 14 : 13, (event) => {
+	dispatch.hook('S_LOGIN', dispatch.majorPatchVersion >= 105.2 ? 15 : 14, (event) => {
 		cid = event.gameId;
 		model = event.templateId;
 		name = event.name;
@@ -427,7 +427,7 @@ module.exports = function aazsync(dispatch) {
 		}
 	});
 
-	dispatch.hook('S_EACH_SKILL_RESULT', dispatch.majorPatchVersion >= 86 ? 14 : 13, (event) => {
+	dispatch.hook('S_EACH_SKILL_RESULT', dispatch.majorPatchVersion >= 105.2 ? 15 : 14, (event) => {
 		if(!enabled) {return;}
 		if (event.target === cid) {
 			lastStage = event.reaction.skill.id;
