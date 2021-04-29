@@ -1079,7 +1079,7 @@ module.exports = function aazsync(dispatch) {
 		}
 	});
 
-	dispatch.hook('S_PLAYER_STAT_UPDATE', dispatch.majorPatchVersion >= 93 ? 15 : 14, (event) => {
+	dispatch.hook('S_PLAYER_STAT_UPDATE', dispatch.majorPatchVersion >= 105.2 ? 15 : 14, (event) => {
 		speedlol = event.runSpeedBonus;
 		speedbase = event.runSpeed;
 		if (speedlol > (-1)) {
