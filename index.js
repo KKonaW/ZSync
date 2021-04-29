@@ -1,4 +1,4 @@
-/* Script by yourmom */
+/* Script by Berni2020 */
 'use strict'
 module.exports = function aazsync(dispatch) {
 	let config = {};
@@ -1079,7 +1079,7 @@ module.exports = function aazsync(dispatch) {
 		}
 	});
 
-	dispatch.hook('S_PLAYER_STAT_UPDATE', dispatch.majorPatchVersion >= 105.2 ? 15 : 14, (event) => {
+	dispatch.hook('S_PLAYER_STAT_UPDATE', 15, (event) => {
 		speedlol = event.runSpeedBonus;
 		speedbase = event.runSpeed;
 		if (speedlol > (-1)) {
