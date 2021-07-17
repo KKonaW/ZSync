@@ -1,4 +1,4 @@
-/* Script by Bernkastel & shiro*/
+/* Script by YOUR MOM*/
 'use strict'
 module.exports = function aazsync(dispatch) {
 	let config = {};
