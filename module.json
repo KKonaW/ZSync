@@ -1,11 +1,11 @@
 {
     "disableAutoUpdate": true,
-    "name": "zSync",
-    "author": "Bernkastel",
-    "description": "fixes my shit scripts desyncs",
-    "version": "1.0",
+    "name": "zSync-script",
+    "author": "<font color='#FDD017'>Bernie 2020</font>",
+    "description": "==",
+    "version": "<font color='#FC0FC0'>GF-107.2</font>",
     "options": {
-        "niceName": "zSync",
-        "guiName": "zSync"
+        "niceName": "zSync-script",
+        "guiName": "<font color='#FDD017'>zSync-script</font>"
     }
 }
