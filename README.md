@@ -1,2 +1,2 @@
 # ZSync
- scripts desyncs
+ zSync
