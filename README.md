@@ -1,2 +1,2 @@
 # ZSync
- zSync
+ zSync.
